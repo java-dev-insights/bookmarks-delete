@@ -10,6 +10,7 @@ layout: page
 - Daily
   - [Quotes](daily/quotes)
   - [Excercise](daily/excercise)
+  - [Vitamins](daily/vitamins)
   - [Poems](daily/poems)
   - [Short Moral Stories](daily/moral-short-stories)
 - Country - [UK](country/uk) / [India](country/india) / [Europe](country/europe)
@@ -17,7 +18,6 @@ layout: page
 - [Invest](invest)
 - [House](house)
 - [Content Creator](content-creator)
-- [Youtube](youtube)
 - [To Do List](todo)
 - Trial themes - [try-theme-bulma](/try-theme-bulma)
 
