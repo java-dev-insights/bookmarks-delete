@@ -6,7 +6,7 @@
 title: Bookmarks
 description: >- # this means to ignore newlines until "baseurl:"
   Bookmarks
-baseurl: "/bookmarks" # the subpath of your site, e.g. /blog
+baseurl: "/bookmarks-delete" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings ============================================================================
